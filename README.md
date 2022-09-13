@@ -11,4 +11,4 @@
 
 
 
-📫 Te dejo mi correo para conectarnos gianinacarra@gmail.com
+📫 Te dejo mi correo para conectarnos gianinacarra@gmail.com y LinkedIn https://www.linkedin.com/in/gianina-carranzani/
