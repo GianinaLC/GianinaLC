@@ -4,8 +4,6 @@
 🌱 Actualmente estudio programación Fullstack (MERN)
 
 
-🔭 Busco mi primera experiencia laboral como Frontend.
-
 
   <a href="https://github.com/GianinaLC">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianinaLC&layout=compact&langs_count=7&theme=blueberry"/>
