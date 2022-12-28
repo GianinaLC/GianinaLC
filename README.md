@@ -3,7 +3,13 @@
 
 🌱 Actualmente me dedico al frontend 
 
-:smiley: Con deseos de llegar a fullstack
+
+:battery: Con deseos de llegar a fullstack
+
+
+:computer: En búsqueda activa de trabajo
+
+
 
 
 
