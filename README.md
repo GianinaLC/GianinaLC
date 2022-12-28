@@ -1,7 +1,9 @@
 👋 Hola! Soy Gianina
 
 
-🌱 Actualmente estudio programación Fullstack (MERN)
+🌱 Actualmente me dedico al frontend 
+
+:smiley: Con deseos de llegar a fullstack
 
 
 
